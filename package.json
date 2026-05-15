@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "expense-budget-visualizer",
   "version": "1.0.0",
@@ -13,3 +14,20 @@
     "fast-check": "^3.22.0"
   }
 }
+=======
+{
+  "name": "expense-budget-visualizer",
+  "version": "1.0.0",
+  "description": "Expense & Budget Visualizer — zero-dependency client-side app",
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest"
+  },
+  "devDependencies": {
+    "vitest": "^1.6.0",
+    "@vitest/coverage-v8": "^1.6.0",
+    "jsdom": "^24.0.0",
+    "fast-check": "^3.22.0"
+  }
+}
+>>>>>>> 8a5f858c99ac510a7aac5d6e6994ac478786749c
